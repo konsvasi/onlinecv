@@ -2,6 +2,7 @@
   "name": "new_online_cv",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://konsvasi.github.io/onlinecv/",
   "dependencies": {
     "bulma": "^0.7.1",
     "bulma-timeline": "^3.0.0",
@@ -16,6 +17,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   }
 }
