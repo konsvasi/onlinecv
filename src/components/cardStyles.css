@@ -1,0 +1,35 @@
+.cardStyles {
+	border-radius: 20px;
+	width: 70%;
+	margin: auto;
+	animation: fadeIn 0.9s;
+	box-shadow: 0 2px 20px rgba(10, 10, 10, 0.1), 0 0 0 3px rgba(21, 21, 21, 0.02);
+}
+
+.section {
+	padding-top: 1.5rem;
+	padding-bottom: 1.5rem; 
+}
+
+.skillTitle {
+	font-weight: bold;
+}
+
+.inline {
+	display: inline;
+}
+
+@media screen and (max-width: 640px) {
+	.cardStyles {
+		width: 100%;
+	}
+}
+
+/* Animation for cards */
+@keyframes fadeIn {
+	from { opacity: 0; }
+	to { opacity: 1; }
+}
+
+
+

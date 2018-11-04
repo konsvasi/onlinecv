@@ -1,0 +1,12 @@
+.profilePic {
+	width: 230px;
+	height: 230px;
+}
+
+@media screen and (max-width: 640px) {
+	.profilePic {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}

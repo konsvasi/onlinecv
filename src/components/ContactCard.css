@@ -1,0 +1,10 @@
+.contactCard {
+	border-radius: 20px;
+	margin-top: 25px;
+}
+
+@media screen and (max-width: 640px) {
+	.cardStyles {
+		margin-top: auto;
+	}
+}

@@ -1,0 +1,11 @@
+.cover {
+	background-image: url('../images/background_image.jpg');
+}
+
+.hero.is-primary .card .title {
+	color: #363636;
+}
+
+.hero.is-primary .card .subtitle {
+	color: #363636;
+}
