@@ -1,7 +1,6 @@
 import React from 'react';
 import 'bulma/css/bulma.css';
 import './ContactCard.css';
-import myCv from '../resources/kostas_vasileiadis_cv.pdf';
 
 const ContactCard = () => {
 	return (
@@ -19,9 +18,6 @@ const ContactCard = () => {
 				</p>
 				<p>Phone: +491781083520</p>
 			</div>
-			<a className="button is-info"
-				href={myCv} download="kostas_vasileiadis_cv.pdf">Download my CV
-			</a>
 		</div>
 	)
 }

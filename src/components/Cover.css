@@ -9,3 +9,17 @@
 .hero.is-primary .card .subtitle {
 	color: #363636;
 }
+
+.downloadButton {
+	float:right;
+	margin-top: 25px;
+}
+
+@media screen and (max-width: 640px) {
+	.downloadButton {
+		float: unset;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
