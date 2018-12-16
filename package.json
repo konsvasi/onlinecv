@@ -2,7 +2,7 @@
   "name": "new_online_cv",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://konsvasi.github.io/onlinecv/",
+  "homepage": "https://www.kostasv.com",
   "dependencies": {
     "bulma": "^0.7.1",
     "bulma-timeline": "^3.0.0",
