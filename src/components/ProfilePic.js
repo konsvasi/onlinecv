@@ -7,7 +7,7 @@ const ProfilePic = () => {
 		<div>
 			<figure className="image profilePic">
 				<img className="is-rounded is-small" 
-					src="https://bulma.io/images/placeholders/128x128.png"
+					src={require("../images/profilePic_opt.jpg")}
 					alt="My profile" 
 				/>
 			</figure>

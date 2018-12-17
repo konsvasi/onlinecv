@@ -16,7 +16,7 @@ const ContactCard = () => {
 						github.com/konsvasi
 					</a>
 				</p>
-				<p>Phone: +491781083520</p>
+				<p>Phone: +491781083520 || +306979417461</p>
 			</div>
 		</div>
 	)
