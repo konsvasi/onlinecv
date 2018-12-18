@@ -3,7 +3,7 @@ import 'bulma/css/bulma.css';
 import './Cover.css';
 import ProfilePic from './ProfilePic';
 import ContactCard from './ContactCard';
-import myCv from '../resources/konstantinos_vasileiadis_cv.pdf';
+import myCv from '../resources/kostas_vasileiadis_cv.pdf';
 
 const Cover = () => {
 	return (
