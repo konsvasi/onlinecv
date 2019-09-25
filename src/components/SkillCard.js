@@ -23,7 +23,7 @@ const SkillCard = () => {
 					</div>
 					<div className="columns">
 						<div className="column">
-							<p className="skillTitle">React and Redux</p>
+							<p className="skillTitle">Vue.js</p>
 							<progress className="progress is-info" value="85" max="100">75%</progress>
 						</div>
 						<div className="column">

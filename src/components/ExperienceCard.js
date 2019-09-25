@@ -12,10 +12,28 @@ const ExperienceCard = () => {
 						<header className="timeline-header">
 							<span className="tag is-medium is-primary">Present</span>
 						</header>
+
 						<div className="timeline-item">
 							<div className="timeline-marker"></div>
 						<div className="timeline-content">
-							<p className="heading">May 2018</p>
+							<p className="heading">April 2019 - Present</p>
+							<p className="subtitle">Web developer at Vantik</p>
+							<p>As a frontend developer for a freshly founded startup I took over the task of
+								implementing a more sophisticated onboarding flow while also getting the project ready to 
+								be deployed to the Appstore and Playstore. I also initiated the migration of our 
+								mostly used components to our Storybook repo and sharing them with our other projects.
+							</p>
+						</div>
+						</div>
+
+						<header className="timeline-header">
+							<span className="tag is-primary">2018</span>
+						</header>
+
+						<div className="timeline-item">
+							<div className="timeline-marker"></div>
+						<div className="timeline-content">
+							<p className="heading">May 2018 - January 2019</p>
 							<p className="subtitle">Web developer at the Greek ministry of Defence</p>
 							<p>During my compulsory military service I was chosen to be part
 								of a team that would support and extend a Java web application
