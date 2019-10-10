@@ -84,7 +84,7 @@ const ExperienceCard = () => {
 						<div className="timeline-item">
 							<div className="timeline-marker"></div>
 							<div className="timeline-content">
-								<p className="heading">October 2008 - July 2015</p>
+								<p className="heading">October 2009 - July 2015</p>
 								<p className="subtitle">Bachelor degree in Computer Science (Aristotle University of Thessaloniki)</p>
 								<p>Graduated from one of the most renowned universities in the country. I chose the
 									software development path where the main courses where: </p>
